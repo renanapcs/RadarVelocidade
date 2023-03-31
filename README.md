@@ -1,4 +1,4 @@
-# RadarVelocidade
+# Radar Velocidade
 '''                     
 Projeto - Medidor de Velocidade. (RADAR)
 Levando em consideração a velocidade máxima permitida de 80km de uma determida via, Crie um programa que recebe do usuário um valor 
